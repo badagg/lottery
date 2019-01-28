@@ -1,0 +1,9 @@
+node_modules
+dist
+_assets
+npm-debug.log
+.vscode/*
+.idea/
+.DS_Store
+.eslintrc.js
+.eslintignore
