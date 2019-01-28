@@ -1,3 +1,6 @@
+## 预览
+![image](https://raw.githubusercontent.com/badagg/lottery/master/9f62e7a0ca91d4a1f1ff08f4b59a424e.GIF)
+
 ## 部门抽奖程序
 祝各位中大奖
 
